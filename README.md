@@ -1,8 +1,11 @@
 # cloudantPHPCURL
-connecting to cloudant via curl
 
-This is an easy PHP Cloudant connect Library using CURL
+Connecting to Cloudant via CURL
 
-nirshneor@gmail.com
+This is an easy PHP Cloudant connect Library using CURL.
+
+Author: nirshneor@gmail.com
 
 Loyalblocks June 2015
+
+for more info on Cloudant http://cloudant.com/for-developers/crud/
